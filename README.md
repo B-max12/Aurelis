@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/icons/logo-mark-dark.png" alt="Aurelis Logo" width="128" height="128" />
+  <img src="/mnt/hdd/Pictures/aurelis.png" alt="Aurelis Logo" width="128" height="128" />
   <h1>Aurelis</h1>
   <p><strong>Downloads, refined.</strong></p>
   <p>A modern, privacy-first, local-first download manager engineered with Tauri 2, React, TypeScript, and Rust.</p>
